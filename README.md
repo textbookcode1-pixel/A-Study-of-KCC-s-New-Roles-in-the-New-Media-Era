@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO201000016982&amp;dbt=TRKO">
-    <img src="./그림1.png" alt="2003년도 정보통신학술연구지원사업 최종보고서 표지" width="400">
+    <img src="./banner.png" alt="2003년도 정보통신학술연구지원사업 최종보고서 표지" width="400">
   </a>
 </p>
 
